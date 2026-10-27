@@ -17,6 +17,7 @@ ________________________________________
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
+<img width="1917" height="1078" alt="Screenshot 2026-10-27 175952" src="https://github.com/user-attachments/assets/dc1a8c24-e5ca-4f6b-8410-a16a7c273323" />
 ________________________________________
 # IP Addressing Table
 Device	Interface	IP Address	Subnet Mask<br>
@@ -55,6 +56,10 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
+<img width="1917" height="1078" alt="Screenshot 2026-10-27 180005" src="https://github.com/user-attachments/assets/9ac2c0e4-c95d-4a5c-9134-7051ea208684" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-27 180040" src="https://github.com/user-attachments/assets/4be8d4e7-b562-4c95-95a1-eec0cf386501" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-27 180222" src="https://github.com/user-attachments/assets/eb1c2c1b-521e-49c5-9184-b0ef2d6ea9a8" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
